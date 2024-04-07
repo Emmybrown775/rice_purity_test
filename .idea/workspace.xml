@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5df8eaeb-9170-4623-b8b3-a0aa1d5386a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="5df8eaeb-9170-4623-b8b3-a0aa1d5386a4" name="Changes" comment="fixes requirements.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/results.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +83,24 @@
       <workItem from="1712424793313" duration="408000" />
       <workItem from="1712425411376" duration="325000" />
       <workItem from="1712425787946" duration="5109000" />
-      <workItem from="1712470119537" duration="1559000" />
+      <workItem from="1712470119537" duration="2657000" />
     </task>
+    <task id="LOCAL-00001" summary="fixes requirements.txt">
+      <created>1712471806297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712471806297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixes requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes requirements.txt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rice_purity_test$rice_purity_test.coverage" NAME="rice_purity_test Coverage Results" MODIFIED="1712470418164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
